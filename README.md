@@ -5,12 +5,6 @@ Run the development server:
 ```bash
 npm i
 npm run tauri dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
 To build the app
