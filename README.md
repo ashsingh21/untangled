@@ -1,15 +1,22 @@
 ## Getting Started
 
-First, run the development server:
 
+Run the development server:
 ```bash
-npm run dev
+npm i
+npm run tauri dev
 # or
 yarn dev
 # or
 pnpm dev
 # or
 bun dev
+```
+
+To build the app
+```bash
+npm i
+npm run tauri build
 ```
 
 ## Screenshot
